@@ -1,0 +1,12 @@
+.blocky {
+  float: left;
+  margin-right: 31px;
+  height: 16px;
+  width: 16px;
+  margin-top: 5px;
+  cursor: pointer;
+  background-size: 16px;
+}
+.blocky:hover {
+  background-position: 0px -16px;
+}
